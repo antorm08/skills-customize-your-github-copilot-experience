@@ -83,5 +83,30 @@
         }
       ]
     }
+    ,
+    {
+      "id": "streamlit-interactive-app",
+      "title": "Interfaz web interactiva con Streamlit",
+      "description": "Construir una app web interactiva con Streamlit para explorar y visualizar datos.",
+      "path": "assignments/streamlit-interactive-app",
+      "dueDate": "2026-07-01",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Requirements",
+          "file": "requirements.txt",
+          "type": "txt"
+        },
+        {
+          "name": "Assignment README",
+          "file": "README.md",
+          "type": "txt"
+        }
+      ]
+    }
   ]
 }
